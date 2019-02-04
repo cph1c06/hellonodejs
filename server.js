@@ -1,3 +1,4 @@
+/*
 var http = require('http');
 var handleRequest = function(request, response) {
   response.writeHead(200);
@@ -5,3 +6,4 @@ var handleRequest = function(request, response) {
 }
 var www = http.createServer(handleRequest);
 www.listen(8080);
+*/
